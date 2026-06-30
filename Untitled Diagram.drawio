@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="2">
+<mxfile host="app.diagrams.net" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,26 @@
         </mxCell>
         <mxCell id="6cpUU4CPE35r2vcfr_W3-2" parent="VbrtwnOTuDc6d0KT4o_c-1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(237, 237, 237);&quot;&gt;Chữ ký số của nhân viên cam kết chịu trách nhiệm&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="426" y="237.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Page-1" id="1ywTWUOoJl5w7RP3lwcc">
+    <mxGraphModel dx="1849" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NqfTtzUGylU8G80HHjwK-0" />
+        <mxCell id="NqfTtzUGylU8G80HHjwK-1" parent="NqfTtzUGylU8G80HHjwK-0" />
+        <mxCell id="ahpTnf_FkSclDuxkx06_-0" parent="NqfTtzUGylU8G80HHjwK-1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
+          <mxGeometry height="380" width="480" x="-20" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="ahpTnf_FkSclDuxkx06_-1" parent="ahpTnf_FkSclDuxkx06_-0" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
+          <mxGeometry height="120" width="480" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ahpTnf_FkSclDuxkx06_-2" parent="ahpTnf_FkSclDuxkx06_-0" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
+          <mxGeometry height="120" width="480" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ahpTnf_FkSclDuxkx06_-3" parent="ahpTnf_FkSclDuxkx06_-0" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
+          <mxGeometry height="120" width="480" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
